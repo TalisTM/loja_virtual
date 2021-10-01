@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "505116922456",
+    "project_id": "lojavirtual-2132d",
+    "storage_bucket": "lojavirtual-2132d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505116922456:android:be110df2d904d7eb3a302d",
+        "android_client_info": {
+          "package_name": "com.talis.loja_virtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "505116922456-24i45jetka7aj001e0qafb34n71c8v06.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbBYZ3zczG3rt677u3Ey3XycUSkbyblSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "505116922456-24i45jetka7aj001e0qafb34n71c8v06.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
